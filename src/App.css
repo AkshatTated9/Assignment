@@ -1,0 +1,49 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+body{
+  font-family: 'Times New Roman', Times, serif;
+  background-color: #0f172a;
+}
+/* App.css */
+
+.container-box {
+  background-color: #1e293b;
+  border-radius: 8px;
+  padding: 32px;
+  margin: 2rem auto;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border: 1px solid var(--border-color);
+  max-width: 1000px;
+  color: #ffffff; /* Default text color for the Box */
+}
+
+.heading {
+  color: #a5b4fc;
+  font-weight: bold;
+}
+
+.subheading {
+  color: #cbd5e1;
+}
+
+.table-container {
+  background-color: #1e293b;
+}
+
+.table-head-cell {
+  background-color: #6366f1;
+  
+}
+
+.table-body-cell {
+  background-color: #1e293b;
+  
+}
+
+.strong-text {
+  color: #a5b4fc;
+  font-weight: bold;
+}
